@@ -1,8 +1,8 @@
 {
-  "homepage": "https://inocencious.github.io/Portfolio-Website",
   "name": "my-portfolio-website",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://inocencious.github.io/Portfolio-Website",
   "type": "module",
   "scripts": {
     "dev": "vite",
